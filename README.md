@@ -5,8 +5,7 @@
 ---
 
 ### 🧠 Who Am I?
-I'm a passionate **Software Developer** and **Tech Enthusiast** constantly pushing the boundaries of technology and creativity. My journey is fueled by the desire to build cutting-edge solutions that make a difference in the digital world.
-
+- 🚀 **Computer Engineering Student** At **Government College Of Engineering And Research Avasari Kh., Pune**
 - 🔭 Currently exploring AI and Machine Learning.
 - 🌱 Learning about AWS and Data Science.
 - 💡 Inventor at heart, always up for solving complex problems.
