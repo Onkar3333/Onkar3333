@@ -18,6 +18,8 @@
 - ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Onkar3333&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+- ## 🏆 GitHub Stats
+
  [![Onkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Onkar3333&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
