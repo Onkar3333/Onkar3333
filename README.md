@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Onkar Bansode
 
-### AI/ML Engineer in the making | Turning Data into Decisions | Ideas to Software
+### AI/ML Engineer in the making | Turning Data into Decisions
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Data+Science+%26+AI%2FML+Engineer;Building+ML+systems+that+actually+ship;Ex-Research+Intern+%40+NCRA-TIFR+(GMRT);Always+learning%2C+always+shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Building+ML+systems+that+actually+ship;Ex-Research+Intern+%40+NCRA-TIFR+(GMRT);Always+learning%2C+always+shipping" alt="Typing SVG" />
 
 <br/>
 
@@ -19,12 +19,10 @@
 
 ### 🚀 About Me
 
-- 🎓 Computer Engineering graduate — **Government College of Engineering & Research, Avasari Kh., Pune** (CGPA 9.50)
-- 🛰️ Research Intern at **NCRA–TIFR (GMRT)** — built signal processing pipelines across a 30-antenna radio telescope array
-- 🧠 Currently focused on **Data Science & AI/ML** roles, deepening my work in LangChain & RAG
+- 🎓 **Computer Engineering** Graduate from — **Government College of Engineering & Research, Avasari Kh., Pune** (CGPA 9.70)
+- 🛰️ Research Intern at **NCRA–TIFR (GMRT)** — built RF signal conditioning software across a 30-antenna radio telescope array
+- 🧠 Exploring **AI & Machine Learning**, learning **AWS** and Data Science
 - 📄 Published ML researcher — multi-organ disease prediction (ICRTSET-2026)
-- 🌱 Co-founder of **DigiDiploma**, an EdTech startup
-- ⚡ Fun fact: I like software that has to talk to real hardware
 
 ---
 
@@ -35,23 +33,24 @@
 **Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**ML / Data**
-![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-
-**Web & Tools**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+**Frameworks & Tools**
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -62,9 +61,13 @@
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Onkar3333&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Onkar3333&theme=radical&hide_border=true"/>
-
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar3333&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Onkar3333&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -88,13 +91,17 @@
 
 ---
 
+### 🌟 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🛰️ **GMRT RF Antenna Control System** | Real-time RF signal conditioning controller built during my NCRA-TIFR internship, managing 30 antennas and 60 channels on the GMRT | `Flask` `Python` `LabJack LJM` |
+| 🩺 **[MediSense](https://github.com/Onkar3333)** | Multi-organ disease criticality prediction (lungs, kidney, heart, liver) — 9 ML algorithms + 3 ensemble strategies, up to 99.4% accuracy. Published at ICRTSET-2026 | `Python` `Scikit-learn` `Pandas` |
+| 🎬 **[Movie Recommender System](https://github.com/Onkar3333/movie-recommender-system-using-kaggle-And-Firebase)** | NLP-based movie recommendation engine | `Python` `NLP` `Scikit-learn` |
+
+---
+
 <div align="center">
-
-### 📬 Let's Connect!
-
-[![Portfolio](https://img.shields.io/badge/Website-onkar.digidiploma.in-blueviolet?style=flat-square)](https://onkar.digidiploma.in/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-onkarbansode-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/onkarbansode)
-[![Twitter](https://img.shields.io/badge/Twitter-@Onkar__Bansode__7-1DA1F2?style=flat-square&logo=twitter)](https://x.com/Onkar_Bansode_7)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Onkar3333&color=blueviolet&style=flat-square)
 
