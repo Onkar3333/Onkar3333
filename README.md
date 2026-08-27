@@ -87,16 +87,7 @@ Published research applying Machine Learning and Ensemble Learning to multi-orga
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Onkar3333&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar3333&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Onkar3333&theme=tokyonight&hide_border=true" width="75%" alt="GitHub Contribution Streak" />
-
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Onkar3333&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Statistics"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar3333&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"> </div>
 
 ### 📈 Contribution Activity Graph
 
