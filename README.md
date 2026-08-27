@@ -54,53 +54,41 @@
 
 </div>
 
----
+###
 
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Onkar3333&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onkar3333&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
-
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
 
-<div align="center">
+###
 
-<img src="https://streak-stats.demolab.com?user=Onkar3333&theme=radical&hide_border=true"/>
-
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
 
-#### 📈 Contribution Activity Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkar3333&theme=react-dark&hide_border=true" width="100%"/>
-</div>
-
-#### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Onkar3333&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-</div>
-
-#### 🔝 Top Contributed Repositories
-
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Onkar3333&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
-</div>
-
----
-
-### 🌟 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| 🛰️ **GMRT RF Antenna Control System** | Real-time RF signal conditioning controller built during my NCRA-TIFR internship, managing 30 antennas and 60 channels on the GMRT | `Flask` `Python` `LabJack LJM` |
-| 🩺 **[MediSense](https://github.com/Onkar3333)** | Multi-organ disease criticality prediction (lungs, kidney, heart, liver) — 9 ML algorithms + 3 ensemble strategies, up to 99.4% accuracy. Published at ICRTSET-2026 | `Python` `Scikit-learn` `Pandas` |
-| 🎬 **[Movie Recommender System](https://github.com/Onkar3333/movie-recommender-system-using-kaggle-And-Firebase)** | NLP-based movie recommendation engine | `Python` `NLP` `Scikit-learn` |
-
----
-
+###
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Onkar3333&color=blueviolet&style=flat-square)
